@@ -1,0 +1,7 @@
+npx create-expo-app nome_projeto
+cd nome_projeto
+npm install -g expo-cli
+npx expo install react-native-web@~0.18.7 react-dom@18.0.0 @expo/webpack-config@^0.17.0
+npx expo start
+
+- expo -> simula o mobile, possui bibliotecas
